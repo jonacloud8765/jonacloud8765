@@ -17,9 +17,9 @@ of its way. Most of it starts as something I wanted on my own Mac.
 - **Honest data.** If something can't be fetched, say so. Never make it up.
 - **Yours to keep.** Open source, no accounts, no tracking, files you can read.
 
-### 三 · Featured: Feng Shui <sub>(aka Morrow)</sub>
+### 三 · Featured: Feng Shui
 
-**[Feng Shui](https://github.com/jonacloud8765/morrow)** is a set of calm desktop
+**[Feng Shui](https://github.com/jonacloud8765/feng-shui)** is a set of calm desktop
 widgets for macOS. Each widget is a window of its own: clocks, weather, world
 clocks, films, sticky notes, a corkboard, a whiteboard and a few small toys.
 Layouts keep different arrangements, and the Feng Shui layout places everything
