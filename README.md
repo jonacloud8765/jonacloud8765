@@ -25,7 +25,7 @@ clocks, films, sticky notes, a corkboard, a whiteboard and a few small toys.
 Layouts keep different arrangements, and the Feng Shui layout places everything
 on a bagua grid so the desktop feels balanced.
 
-<p align="center"><img src="assets/feng-shui-layout.jpg" alt="The Feng Shui layout: lacquer-framed widgets on a bagua grid over an ink-wash wallpaper" width="100%"></p>
+<p align="center"><img src="assets/feng-shui-layout.jpg" alt="The Feng Shui layout: liquid glass widgets in three balanced columns over ink mountains at dusk" width="100%"></p>
 
 <table>
   <tr>
@@ -41,7 +41,7 @@ on a bagua grid so the desktop feels balanced.
 <sub>Screenshots are from the running app with demo data.</sub>
 
 - Electron with a small native AppKit helper for real blur and desktop-level windows
-- Bagua arrangement: a 3×3 grid on an 8-point rhythm, balanced by element
+- One shared liquid glass, arranged on a bagua grid and balanced by element
 - Keep Mac Awake from the menu bar, arrow-key layout switching, and Films that groups shows by season
 - MIT licence
 
