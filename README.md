@@ -45,6 +45,12 @@ on a bagua grid so the desktop feels balanced.
 - Keep Mac Awake from the menu bar, arrow-key layout switching, and Films that groups shows by season
 - MIT licence
 
+**Film Closet** is a walk-in shelf of films as a custom widget: three walls of
+spines in perspective, with a poster on hover. The public version is filled with
+public-domain films.
+
+<p align="center"><img src="assets/film-closet.jpg" alt="The Film Closet: a 3D wall of film spines with a poster appearing on hover" width="100%"></p>
+
 **NF Widget** is one of its widgets: a green briefcase that opens a small,
 harmless 90s-style launch screen. It's a joke, and it makes no requests of any kind.
 
