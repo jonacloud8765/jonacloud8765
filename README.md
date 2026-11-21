@@ -51,6 +51,11 @@ public-domain films.
 
 <p align="center"><img src="assets/film-closet.jpg" alt="The Film Closet: a 3D wall of film spines with a poster appearing on hover" width="100%"></p>
 
+**File Cabinet** is a 90s file explorer for your Downloads, with a Disk Cleanup
+that only ever moves things to the Trash, and only after asking.
+
+<p align="center"><img src="assets/file-cabinet.jpg" alt="The File Cabinet: a 90s-style file explorer showing a Downloads folder" width="100%"></p>
+
 **NF Widget** is one of its widgets: a green briefcase that opens a small,
 harmless 90s-style launch screen. It's a joke, and it makes no requests of any kind.
 
